@@ -1,0 +1,113 @@
+.row {
+     margin-right: 0; 
+     margin-left: 0; 
+}
+.title-bar{
+    background: #17161D;
+    color: #e8e9ea;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+}
+.title-bar p{
+    font-size: 20px;
+    margin: 0;
+}
+.title-bar img{
+    margin-left: 10px;
+}
+#editor{
+    display: flex ;
+    background: #1A1C22;
+    min-height: 94vh;
+    color: #e8e9ea;
+    font-family: 'Roboto', sans-serif;
+    align-items: stretch;
+}
+.grid-size{
+    width: 50px;
+    height: 35px;
+    padding: 4px;
+    border-radius: 4px;
+    background: #262730;
+    color: #e8e9ea5e;
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    display: block;
+    margin: auto;
+}
+.options{
+    background: #262730;
+    width: 85px;
+    text-align: center;
+    padding-top: 10px;   
+}
+.options p{
+    margin-bottom: 5px ;
+    font-weight: 600;
+    font-size: 15px;
+    color: #e8e9eaa2;
+}
+.option{
+    font-size: 14px;
+    align-self: center;
+    color: #e8e9ea5e;
+    margin: 10px;
+}
+.option span{
+    font-size: 12px;
+    font-weight: bold;
+}
+.color-select-btn{
+    width: 40px;
+    height: 35px;
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    border-radius: 4px;
+    font-size: 23px;
+
+}
+.color-pickup-btn{
+    width: 40px;
+    height: 35px;
+    display: block;
+    margin: auto;
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    border-radius: 4px;
+    font-size: 23px;
+    color: #e8e9ea5e;
+    background: #262730;
+
+}
+.chrome-picker{
+    background: #262730!important;
+    position: absolute!important;
+    margin-left: 85px;
+    margin-top: 120px;
+
+}
+.chrome-picker input{
+    background: #262730!important;
+    color: #e8e9ea5e!important;
+    border-color: #e8e9ea5e;
+    
+}
+@media screen and (max-width: 768px) {
+    .options{
+        display: flex;
+        width: 100%;
+        padding-bottom: 10px;
+        align-self: flex-start;
+
+    }
+    .color-select-btn{
+        margin: 0;
+    }
+    .options p{
+        align-self: center;
+    }
+    .option{
+        margin: 0 10px;
+    }
+}

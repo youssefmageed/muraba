@@ -1,0 +1,5 @@
+#drawingPanel{
+    display: inline-block;
+    flex-direction: column;
+    background: #fff;
+}

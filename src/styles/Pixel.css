@@ -1,0 +1,10 @@
+.pixel{
+   width: 1rem;
+   height: 1rem; 
+}
+.panel-row:nth-child(odd) > .pixel:nth-child(odd){
+   background: #D9D9D9;
+}
+.panel-row:nth-child(even) > .pixel:nth-child(even){
+   background: #D9D9D9;
+}
