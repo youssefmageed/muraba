@@ -54,3 +54,12 @@
     height: 100%;
     right: -100px;
 }
+.start-btn{
+    background-color:#00ddff;
+    border-color: bisque;
+    height: 60px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 1.5em;
+    font-weight: 900;
+}

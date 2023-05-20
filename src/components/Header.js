@@ -17,7 +17,7 @@ function Header() {
                     <h2>Muraba <br/> Pixel Art Creator</h2>
                     <h4>Fully Free - Mobile Compatible <br/> Web-Based - Open source</h4>
                     <p>Make your Own Pixel art World </p>
-                    <button type="button" className="btn btn-primary"> Start NOW</button>
+                    <button type="button" className="btn btn-primary start-btn"> Start NOW</button>
                     </div>
                 </div>
                 
