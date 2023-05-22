@@ -43,7 +43,7 @@
     justify-content: center
 }
 .art-area img{
-    width: 75%;
+    width: 70%;
     align-self: center;
     z-index: 2;
     filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
@@ -58,8 +58,9 @@
     background-color:#00ddff;
     border-color: bisque;
     height: 60px;
+    line-height: 45px;
     width: 200px;
     border-radius: 20px;
     font-size: 1.5em;
-    font-weight: 900;
+    font-weight: 600;
 }
