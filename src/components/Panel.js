@@ -18,10 +18,10 @@ function Panel(props) {
     
     return (
         <div className="panel">
-            <div ref={panelRef} id="drawingPanel" className="" > 
+            <div ref={panelRef} id="drawingPanel" > 
                 {rows}
             </div>
-            { <button onClick={exportcomponent}>export</button>}
+            { <button className='exp-btn' onClick={exportcomponent}>Export</button>}
         </div>
     )
 }

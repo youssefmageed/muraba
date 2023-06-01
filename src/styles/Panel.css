@@ -3,3 +3,19 @@
     flex-direction: column;
     background: #fff;
 }
+.exp-btn{
+    display: block;
+    height: 50px;
+    width: 150px;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 10px;
+    color: #262730;
+    background-color: #fff;
+    margin: auto;
+}
+.exp-btn:hover{
+    color: #fff;
+    background-color: #262730;
+    transition: .5s;
+}

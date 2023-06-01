@@ -36,7 +36,7 @@ function Editor() {
         <div className="container-md">                
             <div className="title-bar">
                 <a className="navbar-brand">
-                    <img src={logo} width="50" height="30" alt=""></img>
+                    <img src={logo} width="30" height="30" alt=""></img>
                 </a>
                 <p>Pixel Editor</p>  
             </div> 

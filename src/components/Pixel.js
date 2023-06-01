@@ -8,7 +8,6 @@ function Pixel (props) {
 
     function initTool(){
         props.setTool(!props.Tool)
-        console.log("done")
     }
 
     function applyColor(){
@@ -27,7 +26,6 @@ function Pixel (props) {
     }
     function restColor(){
         if(changeable){ setPixelColor(intColor)}
-
         setChangeable(true)
     }
     
