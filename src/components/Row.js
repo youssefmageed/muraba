@@ -2,7 +2,6 @@ import React from 'react'
 import '../styles/Row.css';
 import Pixel from './Pixel';
 
-
 function Row(props) {
     let pixels = [];
     for(let i = 0; i < props.width; i++){

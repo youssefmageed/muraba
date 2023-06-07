@@ -4,11 +4,10 @@ import Row from './Row';
 import {exportComponentAsPNG} from "react-component-export-image"
 
 function Panel(props) {
-    
     const panelRef = useRef()
     function exportcomponent(){
-
         exportComponentAsPNG(panelRef)
+
     }
     let rows = [];
 
