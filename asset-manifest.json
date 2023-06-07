@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/muraba/static/css/main.4d1bf5ad.chunk.css",
+    "main.js": "/muraba/static/js/main.54704db6.chunk.js",
+    "main.js.map": "/muraba/static/js/main.54704db6.chunk.js.map",
+    "runtime-main.js": "/muraba/static/js/runtime-main.b2d97047.js",
+    "runtime-main.js.map": "/muraba/static/js/runtime-main.b2d97047.js.map",
+    "static/js/2.8361f845.chunk.js": "/muraba/static/js/2.8361f845.chunk.js",
+    "static/js/2.8361f845.chunk.js.map": "/muraba/static/js/2.8361f845.chunk.js.map",
+    "static/js/3.38b86ab9.chunk.js": "/muraba/static/js/3.38b86ab9.chunk.js",
+    "static/js/3.38b86ab9.chunk.js.map": "/muraba/static/js/3.38b86ab9.chunk.js.map",
+    "index.html": "/muraba/index.html",
+    "static/css/main.4d1bf5ad.chunk.css.map": "/muraba/static/css/main.4d1bf5ad.chunk.css.map",
+    "static/js/2.8361f845.chunk.js.LICENSE.txt": "/muraba/static/js/2.8361f845.chunk.js.LICENSE.txt",
+    "static/media/island.42203449.png": "/muraba/static/media/island.42203449.png",
+    "static/media/logo.cfc24741.png": "/muraba/static/media/logo.cfc24741.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d97047.js",
+    "static/js/2.8361f845.chunk.js",
+    "static/css/main.4d1bf5ad.chunk.css",
+    "static/js/main.54704db6.chunk.js"
+  ]
+}
