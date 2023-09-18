@@ -14,7 +14,6 @@ function Header() {
             {repeat: 999, duration : 3000 , yoyo: true}
         )
         tween.start()
-        console.log("hii")
     }, )
     return (
         <div className="cover">
